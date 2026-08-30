@@ -27,8 +27,7 @@ Music="*uid://d2p5iwthtitxx"
 
 window/size/viewport_width=1100
 window/size/viewport_height=450
-window/stretch/mode="canvas_items"
-window/stretch/aspect="expand"
+window/stretch/mode="viewport"
 
 [input]
 
